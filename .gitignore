@@ -1,0 +1,36 @@
+# === Dataset (11GB) ===
+extracted/
+
+# === Generated outputs ===
+output/
+figures/
+results/
+
+# === Reference PDFs ===
+文献/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Claude Code ===
+.claude/
+
+# === Temp scripts ===
+update_docx_polish.py
